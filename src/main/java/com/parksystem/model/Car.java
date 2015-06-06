@@ -2,7 +2,7 @@ package com.parksystem.model;
 
 public class Car extends Vehicle {
 	public Car() {
-		spotsNeeded = 1;
+ 		spotsNeeded = 1;
 		size = VehicleSize.Compact;
 	}
 	
